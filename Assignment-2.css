@@ -1,3 +1,101 @@
-nav{
-    text-align:center
+
+.big-title{
+    background-image:url("surf-report-picture.jfif")  ;
+    margin: 0px;
+    color: aliceblue;
+    border: 0px;
+    padding: 0px;
 }
+
+body{
+    background-color: rgb(151, 170, 255);
+    
+}
+
+.navigation{
+    float:left;
+   
+
+    font-size: 22px;
+   list-style-type: none;
+  
+   
+   background-color: rgb(255, 255, 255);
+   border-color: rgb(0, 0, 0);
+}
+
+.about-me{
+    background-color:rgb(255, 255, 255,0.6);
+    margin-top: 100px;
+   
+    
+}
+
+#about-me-title{
+    text-align: left;
+    display: flex;
+    flex: left;
+    font-size: 30px;
+}
+
+#about-me-discription{
+    text-align: right;
+    display: inline;
+}
+
+#work{
+    background-color:rgb(255, 255, 255,0.6);
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+#assignment-1{
+    text-align: center;
+    width: 400px;
+    height: 200px;
+
+    background-image: url("company-picture.jfif");
+    padding: 100px;
+    
+    margin-left:auto ;
+    margin-right:auto
+}
+
+#assignment-2{
+    
+    width: 200px;
+    height: 150px;
+    background-image: url("night.jfif");
+    display: inline;
+   
+}
+
+#assignment-3{
+    width: 200px;
+    height: 150px;
+    background-image: url("hk-background.jfif");
+    display: inline;
+  
+}
+
+#contact{
+    background-color:rgb(255, 255, 255,0.6);
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+ul{
+    font-size: 20px;
+    text-align:left;
+    list-style-type:none ;
+}
+
+#resume{
+    background-color:rgb(255, 255, 255,0.6);
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+
+
+
